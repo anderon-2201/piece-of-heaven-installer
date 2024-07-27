@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Piece of Heaven
+GenericName=VideoGame
+Comment=VideoGame
+Terminal=false
+Type=Application
+Categories=VideoGame;
+Exec=piece-of-heaven
+Icon=piece-of-heaven
